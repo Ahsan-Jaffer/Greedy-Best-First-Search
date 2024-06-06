@@ -1,0 +1,8 @@
+1. Heuristics( h(n) ) / SLD (Straight Line Distance)  ----> Estimated cost 
+2. Actual Cost ( g(n) ) 
+
+--------------------------------
+
+Greedy Best First Search : 
+    it considers only Heuristics ( h(n) )
+    f(n) = h(n)
